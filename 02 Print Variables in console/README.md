@@ -5,7 +5,7 @@ You can also use the console.log() function to print variables in the console. I
 1. Declare a new variable called `color` and assign the value `"red"` to it.
 2. Print its value to the console.
 
-## 📎 Example:
+## ⌨️ Example:
 ```Javascript 
 let mySuperVariable = 'hello';
 console.log(mySuperVariable);

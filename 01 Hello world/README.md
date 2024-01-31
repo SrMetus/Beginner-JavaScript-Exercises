@@ -7,7 +7,7 @@ Today, printing to `the console` is mainly used as a monitoring tool, ideally to
 
 ## 📝 Instructions:
 Use console.log() to print Hello World on `the console`. Feel free to try other things as well!
-## Example:
+## ⌨️ Example:
 ```Javascript
 console.log('How are you?');
 ```

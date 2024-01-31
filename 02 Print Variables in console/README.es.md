@@ -5,7 +5,7 @@ También puedes utilizar la función `console.log()` para imprimir variables en 
 1. Declara una nueva variable llamada `color` y asígnale el valor `"red"`.
 2. Luego, imprime su valor en la consola.
 
-## 📎 Ejemplo:
+## ⌨️ Ejemplo:
 ```Javascript
 let mySuperVariable = 'hello';
 console.log(mySuperVariable);

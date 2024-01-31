@@ -1,5 +1,5 @@
 @ `05` Constants
-Desde 2015, JavaScript también permite el uso de constantes.
+Desde 2015, JavaScript también permite el uso de **constantes**.
 
 Se diferencian de las variables porque, una vez declaradas, no se les puede cambiar el valor (a diferencia de las variables).
 

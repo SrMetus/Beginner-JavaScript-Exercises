@@ -14,4 +14,4 @@ console.log(one+two); //esto imprimirá 'ab' en la consola.
 ```
 
 ## 💡 Pista:
-Aquí tienes un video de 3 minutos explicando cómo concatenar strings y para qué son útiles: (https://www.youtube.com/watch?v=cExgK0AnCdM)
+- Aquí tienes un video de 3 minutos explicando cómo concatenar strings y para qué son útiles: (https://www.youtube.com/watch?v=cExgK0AnCdM)

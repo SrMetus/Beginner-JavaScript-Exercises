@@ -12,9 +12,8 @@ const VERSION = '1.2';
 Constants are extremely useful. As a developer you may want to make sure parts of your data are read-only.
 
 ## 📝 Instructions:
-Run the exercise and fix the error that is shown on the console.
-
-Make the code output `0.9` on the console when fixed.
+1. Run the exercise and fix the error that is shown on the console.
+2. Make the code output `0.9` on the console when fixed.
 
 ## 💡 Hint:
 - Search for `"TypeError assignment to constant variable"` on [Google.com](https//google.com) to learn how to fix it.

@@ -9,11 +9,11 @@ Here is a table of prices of a wedding catering company:
 | More than 200 people | $20,000   |
 
 ## 📝 Instructions:
-Write a function `getPrice` that receives the number of guests attending the wedding and returns the corresponding price on the console.
+1. Write a function `getPrice` that receives the number of guests attending the wedding and returns the corresponding price on the console.
 ## ⌨️ Example:
 For example, if the user says that **20 people** are attending the wedding, the returned price should be **4000**.
 
 ## 💡 Hints:
-Use a conditional `if...else` statement to divide your code and assign the variable `price` to the appropriate value.
+- Use a conditional `if...else` statement to divide your code and assign the variable `price` to the appropriate value.
 
-Divide and Conquer: breaking a problem up into smaller pieces that are easier to solve.
+- Divide and Conquer: breaking a problem up into smaller pieces that are easier to solve.

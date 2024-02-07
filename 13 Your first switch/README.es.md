@@ -18,13 +18,13 @@ switch (expr) {
 Imagina que tu software está manejando el inventario de una tienda de zapatos. El cliente necesita saber qué colores tienes disponible en un modelo específico de zapatos.
 
 ## 📝 Instrucciones:
-1. Completa este condicional switch con 3 casos para un zapato disponible en 3 colores: red, green y blue.
+1. Completa este condicional `switch` con 3 casos para un zapato disponible en 3 colores: `red`, `green` y `blue`.
 
-2. La función debe regresar true si el color solicitado es uno de los colores disponibles de arriba o false si el color no está disponible.
+2. La función debe regresar `true` si el color solicitado es uno de los colores disponibles de arriba o `false` si el color no está disponible.
 
 ## 💡 Pista:
 - Es posible que debas llevar la entrada (input) del usuario a minúsculas para evitar discrepancias. Haz clic a continuación para que aprendas a hacerlo:
 
-- Para llevar todo a minúsculas (lowercase): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+- Para llevar todo a minúsculas (lowercase): (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 
-- Más sobre condicionales switch: http://www.w3schools.com/js/js_switch.asp
+- Más sobre condicionales switch: (http://www.w3schools.com/js/js_switch.asp)
